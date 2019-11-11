@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 
 # Copied from PyCharm script at
-#   /Applications/PyCharm CE.app/Contents/bin/
+#   /Applications/PyCharm CE.app/Contents/bin/.
+# This is similar to
+#  env > vars.txt
 
 # Dumps environment variables into specified file.
 # Format: zero-separated "name=value" pairs in platform encoding.
